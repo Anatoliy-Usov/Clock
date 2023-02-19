@@ -1,0 +1,20 @@
+{
+    "printWidth": 100,
+    "tabWidth": 2,
+    "useTabs": false,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "es5",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "arrowParens": "avoid",
+    "proseWrap": "always",
+    "liveServer.settings.port": 5501,
+    "bracket-pair-colorizer-2.activeScopeCSS": [
+
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}",
+        "opacity: 0.5"
+    ]
+}
